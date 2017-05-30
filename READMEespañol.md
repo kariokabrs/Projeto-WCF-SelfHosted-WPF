@@ -1,6 +1,6 @@
 # CINQ Test #
 
-## Prueba para la vacante de Programador .NET en la empresa CINQ. ##
+## Prueba para la vacante de Programador .NET en la empresa CINQ ##
 
 * Uso de dos proyectos siendo un WCF Service Library Self Hosted y el otro un WPF que recibe informaciones del WCF;
 * Utilización de Factory Pattern en la creación de las clases y de 3 endpoints para comunicación: HTTP, TCP y webHTTP;
