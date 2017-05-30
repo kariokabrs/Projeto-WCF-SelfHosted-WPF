@@ -1,4 +1,4 @@
-# cinq #
+# CINQ Test #
 
 ## Prueba para la vacante de Programador .NET en la empresa CINQ. ##
 
