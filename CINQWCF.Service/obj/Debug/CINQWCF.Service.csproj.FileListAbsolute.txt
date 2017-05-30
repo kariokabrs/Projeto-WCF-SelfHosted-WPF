@@ -1,0 +1,5 @@
+C:\c programs\CINQWCF.Service\CINQWCF.Service\bin\Debug\CINQWCF.Service.dll.config
+C:\c programs\CINQWCF.Service\CINQWCF.Service\bin\Debug\CINQWCF.Service.dll
+C:\c programs\CINQWCF.Service\CINQWCF.Service\bin\Debug\CINQWCF.Service.pdb
+C:\c programs\CINQWCF.Service\CINQWCF.Service\obj\Debug\CINQWCF.Service.dll
+C:\c programs\CINQWCF.Service\CINQWCF.Service\obj\Debug\CINQWCF.Service.pdb

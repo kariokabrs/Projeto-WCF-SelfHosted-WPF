@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c922d0fb-560f-4f90-a4bb-d3e7ca36aa4e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/CINQWCF.Service/Service1/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="45c2af66-4b6c-413e-9675-9e08f5f1ee14" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CINQWCF.Service/Service1/?xsd=xsd2" />
+    <MetadataFile FileName="item.wsdl" MetadataType="Wsdl" ID="c327f645-6d04-4eaa-aab3-debf19e7bea7" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CINQWCF.Service/Service1/?wsdl=wsdl0" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="53a32ab8-9c71-4109-9604-d366900ef4e9" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CINQWCF.Service/Service1/?xsd=xsd0" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="0aac6cd6-38e7-4677-9fdf-eabd63e2fa6b" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CINQWCF.Service/Service1/?xsd=xsd1" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="0739cbc0-73b1-45c3-97db-06a0a9f3fa17" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CINQWCF.Service/Service1/?disco" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="8455297c-1ebb-4f43-a557-38b61ed29aad" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CINQWCF.Service/Service1/?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
